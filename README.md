@@ -6,3 +6,5 @@ Check for mistakes if needed. I did it for myself, and it works, but I am not pr
 Moreover it is my first KiCAD project.
 
 Video about this device: https://youtu.be/cSmC9j-Mq4M
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/cSmC9j-Mq4M/0.jpg)](http://www.youtube.com/watch?v=cSmC9j-Mq4M "Video Title")
